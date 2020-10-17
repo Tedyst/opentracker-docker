@@ -1,6 +1,6 @@
 FROM alpine
 
-MAINTAINER Lednerb <code@lednerb.de>
+MAINTAINER Stoica Tedy <stoicatedy@gmail.com>
 
 WORKDIR /tmp
 
